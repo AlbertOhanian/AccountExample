@@ -1,0 +1,6 @@
+C:\Users\Arthur\Desktop\Albert\AccountWithDelegate\AccountWithDelegate\bin\Debug\AccountWithDelegate.exe.config
+C:\Users\Arthur\Desktop\Albert\AccountWithDelegate\AccountWithDelegate\bin\Debug\AccountWithDelegate.exe
+C:\Users\Arthur\Desktop\Albert\AccountWithDelegate\AccountWithDelegate\bin\Debug\AccountWithDelegate.pdb
+C:\Users\Arthur\Desktop\Albert\AccountWithDelegate\AccountWithDelegate\obj\Debug\AccountWithDelegate.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Albert\AccountWithDelegate\AccountWithDelegate\obj\Debug\AccountWithDelegate.exe
+C:\Users\Arthur\Desktop\Albert\AccountWithDelegate\AccountWithDelegate\obj\Debug\AccountWithDelegate.pdb
